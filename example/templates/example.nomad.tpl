@@ -1,4 +1,4 @@
-job "example" {
+job "jazzy-example" {
   datacenters = ["dc1"]
   {{- if .nom_metadata_enabled }}
   {{ template "example.metadata" . }}

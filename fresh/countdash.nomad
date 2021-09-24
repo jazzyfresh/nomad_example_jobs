@@ -1,4 +1,4 @@
-job "countdash" {
+job "fresh" {
   datacenters = ["dc1"]
   group "api" {
     task "web" {
