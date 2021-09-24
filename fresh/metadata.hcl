@@ -9,4 +9,3 @@ pack {
   description = "This pack contains the freshest Nomad example job."
 }
 
-dependency "example_dep" {}
